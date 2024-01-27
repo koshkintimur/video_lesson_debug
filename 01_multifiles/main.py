@@ -9,4 +9,3 @@ def get_42():
 
 if __name__ == '__main__':
     get_42()
-    print('say hello')
